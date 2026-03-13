@@ -1,4 +1,4 @@
-# NexaAI – African AI Automation Agency Website
+# Elfrak Tech– African AI Automation Agency Website
 
 A complete React + Vite website for NexaAI, built with a Claude-powered chatbot backend.
 
@@ -77,12 +77,14 @@ The Vite dev server automatically proxies `/api` requests to `localhost:3001`.
 ## Deployment
 
 ### Frontend → Vercel
+
 ```bash
 npm run build
 # Deploy /dist folder to Vercel
 ```
 
 ### Backend → Railway / Render / Fly.io
+
 - Set environment variables in the platform dashboard
 - Point frontend's `/api` proxy to your deployed backend URL
 

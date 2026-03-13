@@ -32,17 +32,6 @@
 
 /* ── MOBILE (≤ 768px) ── */
 @media (max-width: 768px) {
-  .footer-brand {
-    text-align: center;
-  }
-
-  .footer-brand p {
-    max-width: 100%;
-  }
-
-  .footer-social {
-    justify-content: center;
-  }
   :root {
     --nav-height: 64px;
   }
@@ -177,6 +166,19 @@
   .footer-grid {
     grid-template-columns: 1fr;
     gap: 32px;
+  }
+
+  .footer-brand {
+    text-align: center;
+  }
+
+  .footer-brand p {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .footer-social {
+    justify-content: center;
   }
 
   .footer-bottom {
