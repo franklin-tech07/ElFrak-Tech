@@ -32,6 +32,17 @@
 
 /* ── MOBILE (≤ 768px) ── */
 @media (max-width: 768px) {
+  .footer-brand {
+    text-align: center;
+  }
+
+  .footer-brand p {
+    max-width: 100%;
+  }
+
+  .footer-social {
+    justify-content: center;
+  }
   :root {
     --nav-height: 64px;
   }

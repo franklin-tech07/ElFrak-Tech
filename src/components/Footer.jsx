@@ -119,7 +119,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>© {year} ElfrakAI. All rights reserved.</p>
+          <p>© {year} Elfrak Tech. All rights reserved.</p>
           <p>Built with AI. Powered by purpose.</p>
         </div>
       </div>
