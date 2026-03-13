@@ -48,7 +48,7 @@ export default function Footer() {
                 🎵
               </a>
               <a
-                href="elfraktech@gmail.com"
+                href="mailto:elfraktech@gmail.com"
                 className="social-btn"
                 title="Email"
               >

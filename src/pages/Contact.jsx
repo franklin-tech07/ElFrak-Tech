@@ -88,7 +88,7 @@ export default function Contact() {
                     <div>+232 72 263 135</div>
                   </div>
                 </a>
-                <a href="elfraktech@gmail.com" className="contact-link">
+                <a href="mailto:elfraktech@gmail.com" className="contact-link">
                   <div className="contact-link-icon">✉️</div>
                   <div>
                     <div
